@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+  color: white;
+  background: #858181
+}
+
+header nav ul {
+  background: #e91c41;
+  color: white;
+  
+}
+
+header nav ul li {
+  display: inline-flex;
+  padding: 10px;
+  max-width: 100%;
+  
+}
+
+main {
+  color: #34656d;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  border: 3px solid #858181
+}
+
+
+
+footer {
+  background :#858181;
+  color: #faf3f3
+}

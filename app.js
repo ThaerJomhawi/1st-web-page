@@ -1,4 +1,4 @@
-//here i will use the if 
+/*//here i will use the if 
 
 var userName=prompt('What can we call you?  ');
 alert('Welcome ' + userName+' to MCU');
@@ -41,4 +41,4 @@ for(var i=0;i<countries;i++)
 }
 // calling the function 
 operatingSystem ();
-countriesVisit();
+countriesVisit();*/
